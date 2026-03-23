@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👁️ YAVUZVOID
 
-<!--
-**YavuzVoid/YAVUZVOID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | Automation & AI
+🧠 Building systems that think, automate, and optimize
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I started my journey with C# and built a solid foundation in object-oriented programming.
+Now, I focus on Python and develop automation systems, data processing tools, and AI-driven projects.
+
+I enjoy creating efficient systems that reduce manual work and solve real-world problems.
+
+---
+
+## ⚙️ Tech Stack
+
+* Python 🐍
+* C#
+* Automation Tools
+* Data Processing
+* Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+🔹 AI Automation Bot
+🔹 Data Analysis System
+🔹 Web Scraping Engine
+
+---
+
+## 📈 Vision
+
+To become an advanced AI & Automation developer and build scalable intelligent systems.
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/abdurrahman-yavuz-3146923b9/
