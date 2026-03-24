@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YavuzVoid&color=blue&style=flat)
 
-Python Backend & React Native Mobile Developer. Temiz, test edilmiş ve production-ready uygulamalar geliştiriyorum.
+Python Backend Developer. Temiz, test edilmiş ve production-ready API'ler geliştiriyorum.
 
 ## Teknolojiler
 
