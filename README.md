@@ -1,5 +1,7 @@
 # Merhaba, ben Yavuz 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=YavuzVoid&color=blue&style=flat)
+
 Python Backend Developer. Temiz, test edilmiş ve production-ready API'ler geliştiriyorum.
 
 ## Teknolojiler
