@@ -24,6 +24,8 @@ Python Backend Developer. Temiz, test edilmiş ve production-ready API'ler geli�
 | [E-Commerce API](https://github.com/YavuzVoid/ecommerce-api) | Ürün, sepet, sipariş yönetimi ve stok takibi | FastAPI, SQLAlchemy, JWT, Pytest |
 | [Auth Service API](https://github.com/YavuzVoid/auth-service-api) | JWT auth, refresh token, role-based access control | FastAPI, Bcrypt, python-jose |
 | [URL Shortener API](https://github.com/YavuzVoid/url-shortener-api) | URL kısaltma, yönlendirme ve tıklama istatistikleri | FastAPI, SQLAlchemy |
+| [Algorithm Solutions](https://github.com/YavuzVoid/algorithm-solutions) | HackerRank ve LeetCode algoritma çözümlerim | Python |
+
 ## İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-yavuz-3146923b9/)
